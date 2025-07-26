@@ -75,7 +75,7 @@
 
   <h2>🎥 Demo Video</h2>
   <p>Just want to see the game in action? No problem:</p>
-  <p>▶️ <a href="./TowerGameplay.mp4">Click here to download or view the gameplay demo</a></p>
+  <p>▶️ <a href="https://drive.google.com/file/d/1jWocDk9xyzAbW_dvgdwWvKNSBXyCkqWN/view?usp=sharing">Click here to download or view the gameplay demo</a></p>
 
   <hr>
 
